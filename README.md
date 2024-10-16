@@ -4,29 +4,29 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 Embarking on an Advanced Programming lab project, I took the lead in crafting an application.
 
-This cutting-edge platform is meticulously engineered to elevate the student experience with a suite of indispensable features: 
+This cutting-edge platform is meticulously engineered to elevate the student experience with a suite of indispensable features:
 
-**Upcoming Schedules:** Receive timely updates on imminent class tests, assignments, and lab sessions. 
-**Daily Class Routine:** Effortlessly navigate through the daily class schedule for a quick grasp of the day's agenda. 
-**Classmate Communication:** Foster seamless communication by connecting with classmates through the app. 
-**Blood Group Search:** Enhance community engagement by allowing users to locate classmates based on their blood group. 
-**Hall of Fame:** Establish a dedicated space to celebrate the accomplishments of peers, creating a positive and motivating environment. 
-**Birthday Love:** Express heartfelt sentiments on friends' birthdays, infusing a personalized touch into the virtual space. 
-**Attendance Calculator:** Ensure precise attendance tracking, streamlining calculations at the semester's conclusion. 
+**Upcoming Schedules:** Receive timely updates on imminent class tests, assignments, and lab sessions.
+**Daily Class Routine:** Effortlessly navigate through the daily class schedule for a quick grasp of the day's agenda.
+**Classmate Communication:** Foster seamless communication by connecting with classmates through the app.
+**Blood Group Search:** Enhance community engagement by allowing users to locate classmates based on their blood group.
+**Hall of Fame:** Establish a dedicated space to celebrate the accomplishments of peers, creating a positive and motivating environment.
+**Birthday Love:** Express heartfelt sentiments on friends' birthdays, infusing a personalized touch into the virtual space.
+**Attendance Calculator:** Ensure precise attendance tracking, streamlining calculations at the semester's conclusion.
 
 Guided by the belief that design enhances user experience, Virtual Cr features a dynamic interface. Recognizing the monotony of black-and-white class routines, the app aims to infuse enthusiasm into routine academic tasks.
 
 ##screenshots
-![Sign In Page]()
-![Sign Up page]()
-![Home Page]()
-![Upcoming Events Page]()
-![Profile Page]()
-![Profile Visit Page]()
+![Sign In Page](screenshots/1.jpg)
+![Sign Up page](screenshots/2.jpg)
+![Home Page](screenshots/3.jpg)
+![Upcoming Events Page](screenshots/4.jpg)
+![Profile Page](screenshots/5.jpg)
+![Profile Visit Page](screenshots/6.jpg)
 
 # Getting Started
 
->**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
+> **Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
 
