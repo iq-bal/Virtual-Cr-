@@ -25,6 +25,10 @@ Virtual Cr is designed to infuse vibrancy and enthusiasm into routine academic t
   <img src="screenshots/6.jpg" alt="Profile Visit Page" width="300"/>
 </p>
 
+## Backend
+
+The backend code for Virtual Cr is available [here](https://github.com/iq-bal/Virtual-CR-2.2-project-backend). It handles the data management and API interactions that power the app’s features.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
