@@ -7,11 +7,17 @@ Embarking on an Advanced Programming lab project, I took the lead in crafting an
 This cutting-edge platform is meticulously engineered to elevate the student experience with a suite of indispensable features:
 
 **Upcoming Schedules:** Receive timely updates on imminent class tests, assignments, and lab sessions.
+
 **Daily Class Routine:** Effortlessly navigate through the daily class schedule for a quick grasp of the day's agenda.
+
 **Classmate Communication:** Foster seamless communication by connecting with classmates through the app.
+
 **Blood Group Search:** Enhance community engagement by allowing users to locate classmates based on their blood group.
+
 **Hall of Fame:** Establish a dedicated space to celebrate the accomplishments of peers, creating a positive and motivating environment.
+
 **Birthday Love:** Express heartfelt sentiments on friends' birthdays, infusing a personalized touch into the virtual space.
+
 **Attendance Calculator:** Ensure precise attendance tracking, streamlining calculations at the semester's conclusion.
 
 Guided by the belief that design enhances user experience, Virtual Cr features a dynamic interface. Recognizing the monotony of black-and-white class routines, the app aims to infuse enthusiasm into routine academic tasks.
