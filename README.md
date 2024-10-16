@@ -17,6 +17,19 @@ This cutting-edge platform is meticulously engineered to elevate the student exp
 Guided by the belief that design enhances user experience, Virtual Cr features a dynamic interface. Recognizing the monotony of black-and-white class routines, the app aims to infuse enthusiasm into routine academic tasks.
 
 ##screenshots
+
+<p align="center">
+  <img src="screenshots/1.png" alt="Screenshot_1" width="300"/>
+  <img src="screenshots/2.png" alt="Screenshot_2" width="300"/>
+  <img src="screenshots/3.png" alt="Screenshot_3" width="300"/>
+  <img src="screenshots/4.png" alt="Screenshot_4" width="300"/>
+  <img src="screenshots/5.png" alt="Screenshot_5" width="300"/>
+  <img src="screenshots/6.png" alt="Screenshot_6" width="300"/>
+  <img src="screenshots/7.png" alt="Screenshot_7" width="300"/>
+  <img src="screenshots/8.png" alt="Screenshot_8" width="300"/>
+  <img src="screenshots/9.png" alt="Screenshot_9" width="300"/>
+</p>
+
 ![Sign In Page](screenshots/1.jpg)
 ![Sign Up page](screenshots/2.jpg)
 ![Home Page](screenshots/3.jpg)
