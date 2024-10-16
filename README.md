@@ -25,9 +25,6 @@ Guided by the belief that design enhances user experience, Virtual Cr features a
   <img src="screenshots/4.png" alt="Screenshot_4" width="300"/>
   <img src="screenshots/5.png" alt="Screenshot_5" width="300"/>
   <img src="screenshots/6.png" alt="Screenshot_6" width="300"/>
-  <img src="screenshots/7.png" alt="Screenshot_7" width="300"/>
-  <img src="screenshots/8.png" alt="Screenshot_8" width="300"/>
-  <img src="screenshots/9.png" alt="Screenshot_9" width="300"/>
 </p>
 
 ![Sign In Page](screenshots/1.jpg)
